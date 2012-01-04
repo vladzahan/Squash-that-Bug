@@ -1,0 +1,12 @@
+Kinect Squash the Bug -- beta version
+
+A demo of how the alpha version works can be found here: https://www.youtube.com/watch?v=EaIjZ1rFS1Q
+
+May require(I haven't tried without them):
+* .Net 4 Framework
+* Microsoft Kinect SDK beta 2
+* DirectX
+* DirectX SDK
+
+Have fun:-)
+
